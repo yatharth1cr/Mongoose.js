@@ -1,4 +1,4 @@
-### Create an express server in app.js file
+### Create an express server in mongoServer.js file
 
 - install mongoose using npm
 - require mongoose
