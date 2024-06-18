@@ -5,3 +5,4 @@
 - What is Schema? (ExplainWithCode)
 - Schema Types in Mongoose (ExplainWithCode)
 - Arrays, Objects & ObjectIDs (ExplainWithCode)
+### 3. Validation in Mongoose
