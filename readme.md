@@ -4,3 +4,4 @@
 ### 2. Schema in Mongoose
 - What is Schema? (ExplainWithCode)
 - Schema Types in Mongoose (ExplainWithCode)
+- Arrays, Objects & ObjectIDs (ExplainWithCode)
