@@ -8,6 +8,6 @@
 ### 3. **Validation in Mongoose**
 - Validation (ExplainWithCode)
 ### 4. **Models in Mongoose**
-- Models in Mongoose(ExplainWithCode)
+- Models in Mongoose (ExplainWithCode)
 ### 5. **Assignment-I**
 - ExplainWithCode
