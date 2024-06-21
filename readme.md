@@ -11,3 +11,7 @@
 - Models in Mongoose (ExplainWithCode)
 ### 5. **Assignment-I**
 - ExplainWithCode
+### 6. **Assignment-II**
+- ExplainWithCode
+### 7. **Assignment-III**
+- ExplainWithCode
